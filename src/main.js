@@ -1,5 +1,7 @@
 import {PREP_TIME} from "./js/menu.js"
 
+import '../css/style.css';
+
 const from = document.querySelector(".form")
 const orderLog = document.querySelector(".order-log")
 
